@@ -6,8 +6,8 @@
 
 const guru = {
   foto: "LINK_FOTO_GURU_DISINI",       // <-- ganti link foto guru
-  nama: "Nama Guru / Wali Kelas",       // <-- ganti nama guru
-  mapel: "Wali Kelas XII IPA 2"
+  nama: "Rosalia Wati",       // <-- ganti nama guru
+  mapel: "Wali Kelas VIII-A"
 };
 
 const anggotaKelas = [
