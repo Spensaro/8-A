@@ -12,7 +12,7 @@ const guru = {
 
 const anggotaKelas = [
   { absen: 1,  nama: "Kink Viin",  foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFrJqIeiR0vmTa8OCcqsagZcyG7Ain8UleL3wzOlzM81g2-JWk4WIC9e7&s=10" },
-  { absen: 2,  nama: "Nama Siswa 2",  foto: "LINK_FOTO_2_DISINI" },
+  { absen: 2,  nama: "Timothy Ronald",  foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN706jKkDV6zavtzLIm1m_nZMnARhu4jzgNg&s" },
   { absen: 3,  nama: "Nama Siswa 3",  foto: "LINK_FOTO_3_DISINI" },
   { absen: 4,  nama: "Nama Siswa 4",  foto: "LINK_FOTO_4_DISINI" },
   { absen: 5,  nama: "Nama Siswa 5",  foto: "LINK_FOTO_5_DISINI" },
